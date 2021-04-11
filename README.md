@@ -9,7 +9,7 @@
 Xbox Controller (main input) + keyboard (sub input)
 
 #### toys - おもちゃ
-+ [longpress](longpress) [[latest](longpress/releases/latest)]
++ [longpress](https://github.com/nnnnusui/longpress) [[latest](https://github.com/nnnnusui/longpress/releases/latest)]
 + [windows-keyhook](https://github.com/nnnnusui/windows-keyhook) [[latest](https://github.com/nnnnusui/windows-keyhook/releases/latest)]  
   Input conversion: [ convert -> , | noconvert -> . ]
 + [BMPnWAV-Converter](https://github.com/nnnnusui/BMPnWAV-Converter) [[latest](https://github.com/nnnnusui/BMPnWAV-Converter/releases/latest)]
